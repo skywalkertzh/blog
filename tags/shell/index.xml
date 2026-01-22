@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shell on 汤增昊Zenghao Tang | Shanghai Jiao Tong University</title>
+    <link>https://skywalkertzh.github.io/blog/tags/shell/</link>
+    <description>Recent content in Shell on 汤增昊Zenghao Tang | Shanghai Jiao Tong University</description>
+    <image>
+      <title>汤增昊Zenghao Tang | Shanghai Jiao Tong University</title>
+      <url>https://skywalkertzh.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://skywalkertzh.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://skywalkertzh.github.io/blog/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shell Basics</title>
+      <link>https://skywalkertzh.github.io/blog/notes/shell_basics/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://skywalkertzh.github.io/blog/notes/shell_basics/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://skywalkertzh.github.io/blog/pdf/Shell_Basics_v2.pdf&#34;&gt;View Shell Basics PDF&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;add-1所有sh文件在被执行的时候必须要加路径否则会默认去path里面找&#34;&gt;Add: 1.所有.sh文件在被执行的时候必须要加路径！否则会默认去Path里面找！！！&lt;/h3&gt;</description>
+    </item>
+  </channel>
+</rss>

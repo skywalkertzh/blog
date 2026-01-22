@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>汤增昊Zenghao Tang | Shanghai Jiao Tong University</title>
+    <link>https://skywalkertzh.github.io/blog/</link>
+    <description>Recent content on 汤增昊Zenghao Tang | Shanghai Jiao Tong University</description>
+    <image>
+      <title>汤增昊Zenghao Tang | Shanghai Jiao Tong University</title>
+      <url>https://skywalkertzh.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://skywalkertzh.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://skywalkertzh.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shell Basics</title>
+      <link>https://skywalkertzh.github.io/blog/notes/shell_basics/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://skywalkertzh.github.io/blog/notes/shell_basics/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://skywalkertzh.github.io/blog/pdf/Shell_Basics_v2.pdf&#34;&gt;View Shell Basics PDF&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;add-1所有sh文件在被执行的时候必须要加路径否则会默认去path里面找&#34;&gt;Add: 1.所有.sh文件在被执行的时候必须要加路径！否则会默认去Path里面找！！！&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>【Motion Retargetting】GMR：General Motion Retargeting For Humanoid Motion Tracking</title>
+      <link>https://skywalkertzh.github.io/blog/posts/gmr_general_motion_retargeting_for_humanoid_motion_tracking/</link>
+      <pubDate>Tue, 20 Jan 2026 18:11:35 +0800</pubDate>
+      <guid>https://skywalkertzh.github.io/blog/posts/gmr_general_motion_retargeting_for_humanoid_motion_tracking/</guid>
+      <description>&lt;p&gt;Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking&lt;/p&gt;
+&lt;h1 id=&#34;1-why&#34;&gt;1. Why:&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;These humanoid motion tracking policies are a fundamental tool for building teleoperation pipelines or hierarchical control systems. However, significant differences still exist between humans and humanoids in terms of bone length, joint range of motion, kinematic structure, body shape, mass distribution, and actuation mechanisms. This embodiment gap is the first major hurdle that must be overcome for 3D human motion data to be fully useful for humanoid learning.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;做AMP的时候也遇到过类似的问题，retargetting动作和人体的具体细节物理位置无法无法完全重合导致，但当时考虑的是动作质量本身而没有考虑retargetting，用的是组里面给的HV retargetting框架。
+Considering this practice, our hypothesis is that with enough engineering in the reward function and domain randomization, the artifacts caused by retargeting can be mostly mitigated or removed. However, without these engineering efforts, the quality of retargeting results plays a significant role.
+把我当时感觉到的表达出来了&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>网站搭建步骤</title>
+      <link>https://skywalkertzh.github.io/blog/posts/my-first-post_1/</link>
+      <pubDate>Thu, 20 Nov 2025 13:57:56 +0800</pubDate>
+      <guid>https://skywalkertzh.github.io/blog/posts/my-first-post_1/</guid>
+      <description>&lt;h3 id=&#34;hugo--github托管&#34;&gt;Hugo + Github托管&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hugo Quick Start&lt;/strong&gt;：&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;https://gohugo.io/getting-started/quick-start/&lt;/a&gt; 需要把Hugo手动挂载进Path&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PaperMod Theme&lt;/strong&gt;:  &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-papermod/&#34;&gt;PaperMod&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CSS渲染无法显示 解决方案&lt;/strong&gt;：&lt;a href=&#34;https://lizhuo.space/zh/posts/error-logs/hugo%E5%8F%91%E5%B8%83%E5%90%8E%E4%BB%85%E6%96%87%E6%9C%AC%E6%98%BE%E7%A4%BAcss%E6%97%A0%E6%B3%95%E5%8A%A0%E8%BD%BD/&#34;&gt;Hugo 发布后仅文本显示 CSS 无法加载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://skywalkertzh.github.io/blog/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://skywalkertzh.github.io/blog/about/</guid>
+      <description>about</description>
+    </item>
+  </channel>
+</rss>
